@@ -1,0 +1,67 @@
+.f-login{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://image.freepik.com/free-vector/cat-paws-with-little-heart-valentine_45130-731.jpg);
+    background-repeat: repeat-x;
+    align-items: center;
+    background-position-y: bottom;
+    background-size: 50%;
+}
+.form{
+    display: flex;
+    width: 370px;
+    height: 320px;
+    border: none;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 30px;
+    background-color: #FCFEFC;
+    box-shadow: 3px 5px 10px grey;
+    border-radius: 12px;
+    position: relative;
+    justify-content: center;
+    background-image: url(https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-position: bottom right;
+    
+}
+.form span{
+    color: red;
+}
+.f-input{
+    border: none;
+    font-family: cursive;
+    width: 100%;
+    height: 32px;
+    background: none;
+    border-bottom: 1px solid;
+}
+.f-button{
+    font-family: cursive;
+    background-color: #2d95e6;
+    width: 70px;
+    height: 30px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.form-t{
+    width: 250px;
+    height: auto;
+    position: absolute;
+    top: -168px;
+    left: 17%;
+}
+.form-t img{
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+}
+.form-b {
+   margin-top: 10%;
+}
